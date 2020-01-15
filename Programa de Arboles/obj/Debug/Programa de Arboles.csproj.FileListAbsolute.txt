@@ -1,0 +1,20 @@
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Programa de Arboles.exe.config
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Programa de Arboles.exe
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Programa de Arboles.pdb
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Irony.dll
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Irony.pdb
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Irony.xml
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa_de_Arboles.Form1.resources
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa_de_Arboles.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.exe
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.pdb
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Interop.WINGRAPHVIZLib.dll
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Programa de Arboles.exe.manifest
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\bin\Debug\Programa de Arboles.application
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.exe.manifest
+C:\Users\Usuario\source\repos\Programa de Arboles\Programa de Arboles\obj\Debug\Programa de Arboles.application
